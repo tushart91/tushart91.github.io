@@ -3,47 +3,33 @@ layout: page
 title: About
 ---
 
-Johnny Coder
+Tushar Tiwari
 ============
-
+Get it in [pdf](https://www.dropbox.com/s/no356msxime6e5k/Resume_Short.pdf?dl=0&raw=1).
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+[mailto:ttiwari@usc.edu](mailto:ttiwari@usc.edu)               [tushar@therelaxist.com](mailto:tushar@therelaxist.com)
 -------------------     ----------------------------
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**eBay Inc.:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* I worked on tools that aides developers to release code into live. Tools that handle approvals and create package topologies.
 
-* First item
+* I also worked on reporting. Created tons of reports from jira.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**I was also an intern**
 
-**That Other Job You Had**
+Education
+---------
 
-Also with a short description.
+2014-2016 (expected)
+:   **Masters, Computer Science**; University of Southern California (Los Angeles)
+
+2009-2013
+:   **Bachelors, Computer Science**; Vellore Institute of Technology (Vellore)
+    HomeTown (Bangalore)
 
 Technical Experience
 --------------------
@@ -55,13 +41,6 @@ My Cool Side Project
     * These items can also contain lists, but you need to mind the
       indentation levels in the markdown source.
     * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
 Programming Languages
 :   **first-lang:** Here, we have an itemization, where we only want
@@ -81,18 +60,3 @@ Programming Languages
     it.
 
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
