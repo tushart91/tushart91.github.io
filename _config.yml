@@ -6,6 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 relative_permalinks: true
 
+# Build
+exclude: [vendor]
+
 # Setup
 title:            'the relaxist'
 tagline:          'a voyage'

@@ -1,0 +1,1 @@
+script: jekyll build && htmlproof ./_site
