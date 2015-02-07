@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Tushar Tiwari
-============
+#Tushar Tiwari
+
 Get it in [pdf](https://www.dropbox.com/s/no356msxime6e5k/Resume_Short.pdf?dl=0&raw=1).
 -------------------     ----------------------------
 [ttiwari@usc.edu](mailto:ttiwari@usc.edu)                       [tushar@therelaxist.com](mailto:tushar@therelaxist.com)
