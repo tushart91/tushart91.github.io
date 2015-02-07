@@ -4,4 +4,4 @@ machine:
 
 test:
   post:
-    - bundle exec jekyll build
+    - jekyll build
