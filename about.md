@@ -7,7 +7,7 @@ Tushar Tiwari
 ============
 Get it in [pdf](https://www.dropbox.com/s/no356msxime6e5k/Resume_Short.pdf?dl=0&raw=1).
 -------------------     ----------------------------
-[mailto:ttiwari@usc.edu](mailto:ttiwari@usc.edu)               [tushar@therelaxist.com](mailto:tushar@therelaxist.com)
+[ttiwari@usc.edu](mailto:ttiwari@usc.edu)                       [tushar@therelaxist.com](mailto:tushar@therelaxist.com)
 -------------------     ----------------------------
 
 Experience
