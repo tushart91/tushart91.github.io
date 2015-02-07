@@ -3,15 +3,14 @@ layout: page
 title: About
 ---
 
-#Tushar Tiwari
+##Tushar Tiwari
 
 Get it in [pdf](https://www.dropbox.com/s/no356msxime6e5k/Resume_Short.pdf?dl=0&raw=1).
 -------------------     ----------------------------
 [ttiwari@usc.edu](mailto:ttiwari@usc.edu)                       [tushar@therelaxist.com](mailto:tushar@therelaxist.com)
 -------------------     ----------------------------
 
-Experience
-----------
+###Experience
 
 **eBay Inc.:**
 
@@ -21,8 +20,7 @@ Experience
 
 **I was also an intern**
 
-Education
----------
+###Education
 
 2014-2016 (expected)
 :   **Masters, Computer Science**; University of Southern California (Los Angeles)
@@ -31,8 +29,7 @@ Education
 :   **Bachelors, Computer Science**; Vellore Institute of Technology (Vellore)
     HomeTown (Bangalore)
 
-Technical Experience
---------------------
+###Technical Experience
 
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
