@@ -3,5 +3,4 @@ machine:
     version: rbx-2.1.1
 
 test:
-  commands:
-    - jekyll build
+  - jekyll build
