@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:            'the relaxist'
 tagline:          'a voyage'
-description:      'a lazy programmer &lt;geek&gt;ing life out in LA. An insight into my thoughts and works.'
+description:      'a lazy programmer <strike>liv</strike>&nbsp;&lt;geek&gt;ing life out in LA. An insight into my thoughts and works.'
 url:              http://www.therelaxist.com
 baseurl:          /
 
