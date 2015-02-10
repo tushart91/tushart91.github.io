@@ -27,3 +27,7 @@ version:          2.1.0
 github:
   root:           https://github.com/tushart91
   repo:           https://github.com/tushart91/study-usc
+
+pages:
+  resume:         '/resume'
+  archive:        '/archive'
