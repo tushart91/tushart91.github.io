@@ -5,7 +5,16 @@ comments: true
 ---
 
 ###Background
-I plan to do an internship this summer. However, I've been turned down by nuuuuumerous companies. Partly because I've been a lazy bum and haven't really studied anything. The idea of preparing for an interview is total bullshit. An interview should be based on stuff you've done. Not what you've read up in the past few days. Unfortunately tech interviews ***suck*** major ass. Seeing all my roomates score awesome internships I guess I too sucked up to [*Cracking the Coding Interview*](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X). The result - I scored an internship with Bloomberg in f&%king New York. Goes to show lazy people get things done as and when needed. Thumbs up if your lazy :+1:.
+I plan to do an internship this summer. However, I've been turned down by nuuuuumerous companies. Partly because I've been a lazy bum and haven't really studied anything. The idea of preparing for an interview is total bullshit. An interview should be based on stuff you've done. Not what you've read up in the past few days. Unfortunately tech interviews ***suck*** major ass. Seeing all my roomates score awesome internships I guess I too sucked up to [*Cracking the Coding Interview*](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X). The result - I scored an internship with Bloomberg in f&%king New York. Goes to show lazy people get things done as and when needed. Thumbs up if your lazy.
+
+                      _
+                     /(|
+                    (  :
+                   __\  \  _____
+                 (____)  `|
+                (____)|   |
+                 (____).__|
+                  (___)__.|_____
 
 ###Interview
 The interview process was easier than I expected and yes that f&%king book was crazy effective. On the telephonic interview I was asked:
