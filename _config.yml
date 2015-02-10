@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:            'the relaxist'
 tagline:          'a voyage'
-description:      'The personal website of yours truly. An insight into my works and my thoughts. Made by <a href="https://fb.com/tusht" target="_blank">tushar</a>.'
+description:      'a lazy programmer <geek>ing life out in LA. An insight into my thoughts and works.'
 url:              http://www.therelaxist.com
 baseurl:          /
 
