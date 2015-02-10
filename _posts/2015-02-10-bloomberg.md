@@ -9,7 +9,7 @@ I plan to do an internship this summer. However, I've been turned down by nuuuuu
 
                       _
                      /(|
-                    (  :
+                    {  :
                    __\  \  _____
                  (____)  `|
                 (____)|   |
