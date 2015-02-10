@@ -2,8 +2,6 @@ machine:
   ruby:
     version: rbx-2.1.1
 
-deployment:
-    aws:
-    branch: master
-        commands:
-        - jekyll build
+test:
+  commands:
+    - jekyll build
